@@ -1,0 +1,38 @@
+{
+    "udp":{
+        "rtbufsize":"1000M",
+        "framerate":"25",
+        "bufsize":"1000M",
+        "vcodec":"libx264", 
+        "preset":"v ultrafast", 
+        "tune":"v zerolatency", 
+        "f":"mpegts", 
+        "max_delay":"1", 
+        "g":"3", 
+        "b":"v 80M"
+    },
+    "rtp":{
+        "rtbufsize":"1000M",
+        "framerate":"25",
+        "bufsize":"1000M",
+        "vcodec":"libx264", 
+        "preset":"v ultrafast", 
+        "tune":"v zerolatency", 
+        "f":"rtp_mpegts", 
+        "max_delay":"1", 
+        "g":"3", 
+        "b":"v 80M"
+    },
+    "tcp":{
+        "rtbufsize":"1000M",
+        "framerate":"25",
+        "bufsize":"1000M",
+        "vcodec":"libx264", 
+        "preset":"v ultrafast", 
+        "tune":"v zerolatency", 
+        "f":"mpegts", 
+        "max_delay":"1", 
+        "g":"3", 
+        "b":"v 80M"
+    }
+}
