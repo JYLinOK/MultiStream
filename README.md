@@ -1,2 +1,2 @@
 # MultiStream
-Code Source of MultiStream:  A Simple and Fast Multiple Cameras Visual Monitor and Directly Streaming
+Code Source of paper: Simultaneous Multiple Cameras Monitoring and Streaming Based on Auto-layout and Analyzer
